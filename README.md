@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikolaos Gazis</h1>
-<h3 align="center">A 20 year old passionate Programmer from Greece, studying in the Computer Science and Telecommunications department of University of Thessaly, from Greece.</h3>
+<h3 align="center">A 20 year old passionate-to-learning Programmer from Greece, currently studying in the Computer Science and Telecommunications department of University of Thessaly, from Greece 🇬🇷.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaosgazis" alt="nikolaosgazis" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, Java and Frameworks.**
+- 🌱 I’m currently learning: **HTML, Java and Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
 
-- 📫 How to reach me **nikolaosgazis3008@gmail.com**
+- 📫 How to reach me: **nikolaosgazis3008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
