@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaosgazis" alt="nikolaosgazis" /></a> </p>
 
-- 🌱 I’m currently learning: **HTML, Java and Frameworks.**
+- 🌱 I’m currently learning: **Python, HTML, Java**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
 
-- 📫 How to reach me: **nikolaosgazis3008@gmail.com**
+- 📫 Reach me at: **nikolaosgazis3008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
