@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
 
 - 📫 Reach me at: **nikolaosgazis3008@gmail.com**
+  
+- ⚡ My Leetcode Profile: **https://leetcode.com/NikolaosGazis/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
