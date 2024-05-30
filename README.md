@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Nikolaos Gazis</h1>
-<h3 align="center">A 20 year old passionate-to-learning Programmer from Greece 🇬🇷, currently a three-year at the Computer Science and Telecommunications department of University of Thessaly.</h3>
+<h3 align="center">A 20 year old passionate-to-learning Programmer from Greece 🇬🇷, currently a three-year undergraduate at the Computer Science and Telecommunications department of University of Thessaly.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaosgazis" alt="nikolaosgazis" /></a> </p>
 
