@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Nikolaos Gazis</h1>
-<h3 align="center">A 20 year old passionate-to-learning Programmer from Greece 🇬🇷, currently a three-year undergraduate at the Computer Science and Telecommunications department of University of Thessaly.</h3>
+<h3 align="center">A 20 year old passionate-to-learn Programmer from Greece 🇬🇷, currently a three-year undergraduate at the Informatics and Telecommunications department of University of Thessaly.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaosgazis" alt="nikolaosgazis" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[linkedin](https://www.linkedin.com/in/nikolaos-gazis-b258b5263/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/nikolaos-gazis-b258b5263/](https://www.linkedin.com/in/nikolaos-gazis-b258b5263/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages and Tools I have worked on:</h3>
