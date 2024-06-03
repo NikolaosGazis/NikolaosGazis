@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I am Nikolaos Gazis</h1>
 <h3 align="center">About Me</h3>
-  - 🎓 I am from Greece🇬🇷, 20-years-old undergraduate at [University of Thessaly](https://www.uth.gr/en), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
+
+  - 🎓 I am from Greece🇬🇷, 20-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
 
   - 💻 I have interests in Software Development, Video Game Development while also having experimented on Web Design and Mobile Development.
   
@@ -9,6 +10,7 @@
   - 🎮 Other than Programming, I have interests in Sports, History, Music, Videogames, Card Tricks, Filmography and Psychology.
 
 <h3 align="left">Skills</h3>
+
   - 💡 Concepts: Due to obligations at the University as well as personal interests I have worked on Data Structures, Machine Learning, Program Creation in different languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the appropriate environments and tools.
   
   - 🗣 Languages: Native in Greek🇬🇷, B2 in English🇺🇸, learning Italian🇮🇹, French🇫🇷 and German🇩🇪 on my free time for fun.
