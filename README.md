@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" height="30" width="40" /></a>
+<a href="[linkedin](https://www.linkedin.com/in/nikolaos-gazis-b258b5263/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages and Tools I have worked on:</h3>
