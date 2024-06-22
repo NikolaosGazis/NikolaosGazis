@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Nikolaos Gazis</h1>
 <h2 align="left">About Me</h2>
 
-  - 🎓 I am from Greece🇬🇷, 20-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
+  - 🎓 I am from Greece 🇬🇷, 20-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
 
   - 💻 I have interests in Software Development, Video Game Development while also having experimented on Web Design and Mobile Development.
   
@@ -13,9 +13,9 @@
 
   - 💡 Concepts: Due to obligations at the University as well as personal interests I have worked on Data Structures, Machine Learning, Program Creation in different languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the appropriate environments and tools.
   
-  - 🗣 Languages: Native in Greek🇬🇷, B2 in English🇺🇸, learning Italian🇮🇹, French🇫🇷 and German🇩🇪 on my free time for fun.
+  - 🗣 Languages: Native in Greek 🇬🇷, B2 in English 🇺🇸, learning Italian 🇮🇹, French 🇫🇷 and German 🇩🇪 on my free time for fun. 'Ode to Joy 🇪🇺'
 
-  - 👤 Traits: I have a sense of responsibility, organization and intention for cooperation and communication within groups.
+  - 👤 Traits: I pride myself in responsibility, am well organized, and respect the dignity of work in groups and therefore, am prepared to work cooperatively and communicate well. 
 
 <h2 align="left">Connect with me in:</h2>
 <p align="left">
