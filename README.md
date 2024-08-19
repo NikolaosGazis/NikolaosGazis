@@ -5,17 +5,17 @@
 
   - 💻 I have interests in Software Development, Video Game Development while also having experimented on Web Design and Mobile Development.
   
-  - 👨‍💻 You can check my uploaded projects here: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
+  - 👨‍💻 You can check my uploaded projects/repositories here: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
 
-  - 🎮 Other than Programming, I have interests in Sports, History, Music, Videogames, Card Tricks, Filmography and Psychology.
+  - 🎮 Other than Programming, I have interests in Sports, Gymnastics, History, Music, Videogames, Card Tricks, Filmography and Psychology.
 
 <h2 align="left">Skills</h2>
 
-  - 💡 Concepts: Due to obligations at the University as well as personal interests I have worked on Data Structures, Machine Learning, Program Creation in different languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the appropriate environments and tools.
+  - 💡 Concepts: My academic commitments as well as personal interests have led me to study on Data Structures, Machine Learning, creating programs in different programming languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the relevant tools and environments.
   
   - 🗣 Languages: Native in Greek 🇬🇷, B2 in English 🇺🇸, learning Italian 🇮🇹, French 🇫🇷 and German 🇩🇪 on my free time for fun. 'Ode to Joy 🇪🇺'
 
-  - 👤 Traits: I pride myself in responsibility, am well organized, and respect the dignity of work in groups and therefore, am prepared to work cooperatively and communicate well. 
+  - 👤 Traits: I take pride in my sense of responsibility, strong organization skills, and respect the dignity of work in groups and therefore, I am commitent to work cooperatively and communicate well in groups. 
 
 <h2 align="left">Connect with me in:</h2>
 <p align="left">
