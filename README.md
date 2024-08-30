@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Nikolaos Gazis</h1>
 <h2 align="left">About Me</h2>
 
-  - 🎓 I am from Greece 🇬🇷, 20-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
+  - 🎓 I am from Greece 🇬🇷, 21-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
 
   - 💻 I have interests in Software Development, Video Game Development while also having experimented on Web Design and Mobile Development.
   
