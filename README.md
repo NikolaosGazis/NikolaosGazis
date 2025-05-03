@@ -5,7 +5,7 @@
 
   - 💻 I have interests in Software Development, Video Game Development while also having experimented on Web Design and Mobile Development.
   
-  - 👨‍💻 You can check my uploaded projects/repositories here: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
+  - 👨‍💻 You can check my uploaded Projects/Repositories here: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
 
   - 🎮 Other than Programming, I have interests in Sports, Gymnastics, History, Music, Videogames, Card Tricks, Filmography and Psychology.
 
