@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I am Nikolaos Gazis</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099ff&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nikolaos+Derventzis+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 <h2 align="left">About Me</h2>
 
   - 🎓 I am from Greece 🇬🇷, 21-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
