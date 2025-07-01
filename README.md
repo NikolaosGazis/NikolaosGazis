@@ -17,11 +17,11 @@
 <!-- Skills Section -->
 <h2 align="center">🛠️ Skills:</h2>
 
-  - 💡 Concepts: My academic commitments as well as personal interests have led me to study on Data Structures, Machine Learning, creating programs in different programming languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the relevant tools and environments.
+  - 💡 Concepts: My academic commitments as well as personal interests have led me to study on Data Structures, Machine Learning, creating programs in different Programming Languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the relevant tools and environments.
   
   - 🗣 Languages: Native in Greek 🇬🇷, B2 in English 🇺🇸, learning Italian 🇮🇹, French 🇫🇷 and German 🇩🇪 on my free time for fun. 'Ode to Joy 🇪🇺'
 
-  - 👤 Personal Traits: I take pride in my sense of responsibility, strong organization skills, and respect the dignity of work in groups and therefore, I am commitent to work cooperatively and communicate well in groups. 
+  - 👤 Personal Traits: I take pride in my sense of responsibility, strong organization skills, and respect the dignity of work in groups and therefore, I am commited to work cooperatively and communicate well in groups. 
 
 <!-- Social Media Section -->
 <h2 align="center">🔗 Connect with Me:</h2>
@@ -57,4 +57,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+</p>
+
+<!-- GitHub Statistics -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaosGazis&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolaosGazis&show_icons=true&theme=radical"/>
 </p>
