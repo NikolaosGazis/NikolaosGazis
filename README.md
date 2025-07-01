@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099ff&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nikolaos+Derventzis+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099ff&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nikolaos+Gazis+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
   - 🎓 I am from Greece 🇬🇷, 21-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
 
@@ -11,7 +11,7 @@
 
   - 🎮 Other than Programming, I have interests in Sports, Gymnastics, History, Music, Videogames, Card Tricks, Filmography and Psychology.
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
   - 💡 Concepts: My academic commitments as well as personal interests have led me to study on Data Structures, Machine Learning, creating programs in different programming languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the relevant tools and environments.
   
@@ -19,7 +19,7 @@
 
   - 👤 Traits: I take pride in my sense of responsibility, strong organization skills, and respect the dignity of work in groups and therefore, I am commitent to work cooperatively and communicate well in groups. 
 
-<h2 align="left">Connect with me in:</h2>
+<h2 align="center">Connect with me in:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolaos gazis" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nikos_gazis13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikos_gazis13" height="30" width="40" /></a>
