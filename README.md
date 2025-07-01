@@ -6,11 +6,11 @@
 <!-- About Section -->
 <h2 align="center">👨‍💻 About Me:</h2>
 
-  - 🎓 I am from Greece 🇬🇷, 21-years-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
+  - 🎓 I am from Greece 🇬🇷, 21-year-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
 
   - 💻 I have interests in Software Development, Video Game Development, Web Design, Machine Learning and Artificial Intelligence.
   
-  - 👨‍💻 You can check my uploaded Projects/Repositories here: [https://github.com/NikolaosGazis?tab=repositories](https://github.com/NikolaosGazis?tab=repositories)
+  - 👨‍💻 You can check my uploaded Projects/Repositories [here](https://github.com/NikolaosGazis?tab=repositories).
 
   - 🎮 Other than Programming, I have interests in Sports, Gymnastics, History, Music, Videogames, Card Tricks, Filmography and Psychology.
 
