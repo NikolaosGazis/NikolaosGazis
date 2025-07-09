@@ -10,9 +10,7 @@
 
   - 💻 I have interests in Software Development, Video Game Development, Web Design, Machine Learning and Artificial Intelligence.
   
-  - 👨‍💻 You can check my uploaded Projects/Repositories [here](https://github.com/NikolaosGazis?tab=repositories).
-
-  - 🎮 Other than Programming, I have interests in Sports, Gymnastics, History, Music, Videogames, Card Tricks, Filmography and Psychology.
+  - 👨‍💻 You can check my uploaded Work [here](https://github.com/NikolaosGazis?tab=repositories).
 
 <!-- Skills Section -->
 <h2 align="center">🛠️ Skills:</h2>
@@ -27,10 +25,6 @@
 <h2 align="center">🔗 Connect with Me:</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/nikos_gazis13/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
   </a>
