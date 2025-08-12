@@ -1,42 +1,23 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099ff&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I+am+Nikolaos+Gazis+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
-</p>
-
-<!-- About Section -->
-<h2 align="center">👨‍💻 About Me:</h2>
-
-  - 🎓 I am from Greece 🇬🇷, 21-year-old undergraduate at [University of Thessaly]([url](https://www.uth.gr/en)), specifically in the Informatics and Telecommunications Department, having a great interest in Computer Science and the Tech world.
-
-  - 💻 I have interests in Software Development, Video Game Development, Web Design, Machine Learning and Artificial Intelligence.
+<!-- Header -->
+<div align="center">
+  <h1 align="center">Hi there, I am Nikolaos Gazis</h1>
+  <p align="center">
+    A Computer Science student with a passion for Software Developer, Data-driven solutions. <br/> I specialize in Python programming, Data Analysis, AI & Machine Learning.
+  </p>
   
-  - 👨‍💻 You can check my uploaded Work [here](https://github.com/NikolaosGazis?tab=repositories).
-
-<!-- Skills Section -->
-<h2 align="center">🛠️ Skills:</h2>
-
-  - 💡 Concepts: My academic commitments as well as personal interests have led me to study on Data Structures, Machine Learning, creating programs in different Programming Languages, Databases, Information Systems, Algorithms, Networks, Application Development, all implemented in the relevant tools and environments.
-  
-  - 🗣 Languages: Native in Greek 🇬🇷, B2 in English 🇺🇸, learning Italian 🇮🇹, French 🇫🇷 and German 🇩🇪 on my free time for fun. 'Ode to Joy 🇪🇺'
-
-  - 👤 Personal Traits: I take pride in my sense of responsibility, strong organization skills, and respect the dignity of work in groups and therefore, I am commited to work cooperatively and communicate well in groups. 
-
-<!-- Social Media Section -->
-<h2 align="center">🔗 Connect with Me:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
-  </a>
-
-  <a href="https://leetcode.com/u/aiD4EJze22/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Link"/>
-  </a>
-
-  <a href="mailto:nikolaosgazis3008@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nikolaos-gazis-b258b5263/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
+    </a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/aiD4EJze22/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Link"/>
+    </a>
+    <a href="mailto:nikolaosgazis3008@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    </a>
+  </p>
+</div>
 
 <!-- PLanguages & Tools Section -->
 <h2 align="center">Programming Languages & Tools:</h2>
@@ -55,6 +36,5 @@
 
 <!-- GitHub Statistics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaosGazis&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolaosGazis&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaosGazis&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
