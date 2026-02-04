@@ -1,8 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <h1 align="center">Hi there, I am Nikolaos Gazis</h1>
+  <h1 align="center">Hi there, I'm Nikolaos Gazis</h1>
   <p align="center">
-    A Computer Science student with a passion for Software Developer, Data-driven solutions. <br/> I specialize in Python programming, Data Analysis, AI & Machine Learning.
+    Computer Science student with a passion for Software Developing, Data-driven solutions. <br/> I specialize in Python programming, Data Analysis, AI & Machine Learning.
   </p>
   
   <p align="center">
@@ -36,9 +36,4 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-</p>
-
-<!-- GitHub Statistics -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaosGazis&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
