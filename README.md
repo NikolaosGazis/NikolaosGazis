@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1 align="center">Hi there, I'm Nikolaos Gazis</h1>
+  <h1 align="center">Hi there, I'm Nick Gazis</h1>
   <p align="center">
     Computer Science student with a passion for Software Developing, Data-driven solutions. <br/> I specialize in Python programming, Data Analysis, AI & Machine Learning.
   </p>
@@ -20,7 +20,7 @@
 </div>
 
 <!-- PLanguages & Tools Section -->
-<h2 align="center">Programming Languages & Tools:</h2>
+<h2 align="center">Programming Languages & Known Tools:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
