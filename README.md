@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Nick Gazis</h1>
   <p align="center">
-    Computer Science student with a passion for Software Development, Data-driven solutions. <br/> I specialize in Python programming, Data Analysis, AI & Machine Learning.
+    Computer Science student with a passion for Software Development, specializing in Python programming, Data Analysis and Machine Learning/AI.
   </p>
   
   <p align="center">
